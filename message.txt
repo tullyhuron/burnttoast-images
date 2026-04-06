@@ -1,1 +1,1 @@
-"cage.png" | "Urgent Frickin Message from Nicholas Cage!" | "I'm going to steal the Constitution."
+cage.png | Urgent Frickin Message from Nicholas Cage! | I'm going to steal the Constitution.
